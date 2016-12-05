@@ -1,4 +1,7 @@
 .idea
 target
-SampleApplicationJava.iml
+*.iml
 out
+build/
+build_errors.txt
+build_log.txt
